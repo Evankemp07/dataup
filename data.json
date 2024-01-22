@@ -1,0 +1,17 @@
+{
+  "lawsonId1": {
+    "name": "John Doe",
+    "phone": "1234567890",
+    "width": "205",
+    "aspectRatio": "60",
+    "diameter": "15"
+  },
+  "lawsonId2": {
+    "name": "Jane Smith",
+    "phone": "9876543210",
+    "width": "195",
+    "aspectRatio": "65",
+    "diameter": "16"
+  }
+  // Add more Lawson IDs as needed
+}
